@@ -1,0 +1,17 @@
+{
+  "name": "bb_scrolling",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_scrolling",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Scrolling  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
